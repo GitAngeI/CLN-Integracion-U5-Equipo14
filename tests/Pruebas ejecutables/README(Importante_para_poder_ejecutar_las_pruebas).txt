@@ -6,7 +6,7 @@ test_order.py
 test_repository.py
 test_service.py
 
-2.-Despues agregar el archivo "test_cargobox.py" de la carpeta "tests_para_remplazar" a la carpeta "test"
+2.-Despues agregar el archivo "test_cargobox.py" de la carpeta "tests_para_remplazar" a la carpeta "tests"
 
 
 3.-Eliminar TODOS los  archivos de la carpeta "src" (NO de la carpeta "src_para_remplazar") y agregar TODOS los archivos de la carpeta "src_para_remplazar" a la carpeta "src"
